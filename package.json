@@ -1,0 +1,23 @@
+{
+  "name": "opentriviaqa",
+  "version": "1.0.0",
+  "description": "A creative commons dataset of trivia, multiple choice questions and answers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uberspot/OpenTriviaQA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uberspot/OpenTriviaQA/issues"
+  },
+  "homepage": "https://github.com/uberspot/OpenTriviaQA#readme",
+  "dependencies": {
+    "json-templates": "^4.2.0",
+    "mongoose": "^6.0.13"
+  }
+}
